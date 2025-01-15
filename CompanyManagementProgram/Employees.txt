@@ -1,0 +1,3 @@
+Name: Hüseyin Çakır Department: It Position: devoloper ID: 1507 Salary: 22600 Work Off Day: 15
+Name: Furkan Ekiz Department: cantin Position: cantinShef ID: 1542 Salary: 10000 Work Off Day: 10
+Name: Necip Çiftçi Department: finans Position: manager ID: 1534 Salary: 65000 Work Off Day: 20
